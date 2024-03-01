@@ -130,7 +130,7 @@ h2 {
     padding: 10px 20px;
     border-radius: 5px;
     cursor: pointer;
-    position: fixed;
+    position: absolute;
     transition: background-color 0.3s;
 }
 
