@@ -24,7 +24,7 @@ body {
     width: 300px;
     margin: 0 auto;*/
     width: 400px;
-    height: 400px;
+    height: 400px auto;
     position: relative;
     border-radius: 40px;
     padding: 40px;
