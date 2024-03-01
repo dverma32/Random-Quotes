@@ -5,6 +5,7 @@ body {
     /*background: linear-gradient(to bottom, #3494e6, #ec6ead);*/
     background: image("backgroundweb.jpg");
     background-size: cover;
+    overflow: scroll;
     color: #fff;
     margin: 0;
 }
